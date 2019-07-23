@@ -57,6 +57,7 @@ Instead of thinking about FP, we can think about:
   rather than executing actions directly. (the [Command Pattern][command],
   nominally from OOP. Also [CQRS][cqrs]).
 - Immutable bindings by default (or only immutable bindings).
+- Recursion to subsume iteration.
 
 The reason we don't see more cross-pollination between "paradigms" (e.g.,
 [Logtalk][logtalk], which combines logic and object-oriented programming) is
