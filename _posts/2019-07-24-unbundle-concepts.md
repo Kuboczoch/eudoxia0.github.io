@@ -19,8 +19,9 @@ Instead of thinking about FP, we can think about:
 - Less strictly: preferring the creation of new objects rather than the mutation
   of existing ones, and preferring creating objects that represent actions
   rather than executing actions directly. (the [Command Pattern][command],
-  nominally from OOP).
+  nominally from OOP. Also [CQRS][cqrs]).
 
 [cpp-concepts]: http://www.stroustrup.com/good_concepts.pdf
 [method-comb]: https://www.cs.cmu.edu/Groups/AI/html/cltl/clm/node287.html
 [command]: https://en.wikipedia.org/wiki/Command_pattern
+[cqrs]: https://martinfowler.com/bliki/CQRS.html
