@@ -61,6 +61,8 @@ object-oriented languages.
 >decompose them into constituent features, which in turn can be studied
 >individually. The student then has a toolkit of features that they can
 >re-compose per their needs.
+>
+>— Shriram Krishnamurthi
 
 Instead of thinking about OOP, we can think about:
 
