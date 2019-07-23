@@ -58,6 +58,7 @@ Instead of thinking about FP, we can think about:
   nominally from OOP. Also [CQRS][cqrs]).
 - Immutable bindings by default (or only immutable bindings).
 - Recursion to subsume iteration.
+- First class and higher order functions.
 
 The reason we don't see more cross-pollination between "paradigms" (e.g.,
 [Logtalk][logtalk], which combines logic and object-oriented programming) is
