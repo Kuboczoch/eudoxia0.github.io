@@ -52,6 +52,7 @@ Instead of thinking about OOP, we can think about:
 Instead of thinking about FP, we can think about:
 
 - Pure functions
+- Total functions
 - Less strictly: preferring the creation of new objects rather than the mutation
   of existing ones, and preferring creating objects that represent actions
   rather than executing actions directly. (the [Command Pattern][command],
