@@ -6,8 +6,8 @@ tags: [plt]
 
 The common idea of programming paradigms is that they are disjoint universes of
 the practice, rather than a bundle of orthogonal concepts, bundled for
-historical and phylogenetic rather than conceptual, from which you can freely
-choose useful concepts and compose them into new languages.
+historical and phylogenetic rather than conceptual reasons, from which you can
+freely choose useful concepts and compose them into new languages.
 
 As existence proof, I offer Haskell:
 
