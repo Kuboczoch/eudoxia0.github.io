@@ -38,8 +38,11 @@ Further down, the paper explains the motivation behind type classes in reference
 to run-time polymorphism in Smalltalk.
 
 Haskell is a jewel of orthogonal and principled language design, which most
-would classify as sitting squarely in the domain of functional programming. And
-yet this fundamental language feature comes from object-oriented languages.
+would classify as sitting squarely in the domain of purely functional
+programming. And yet this fundamental language feature comes from
+object-oriented languages.
+
+# Conclusion
 
 Instead of thinking about OOP, we can think about:
 
