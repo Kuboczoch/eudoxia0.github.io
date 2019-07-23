@@ -64,6 +64,11 @@ twofold:
 1. We are actively taught to classify languages into broad tribes, rather than
    thinking of languages as having many individual orthogonal concepts.
 
+2. Baby duck syndrome. Programmers who know C++, Java, C#, and JavaScript are
+   essentially exposed to the same bundle of concepts, what we think of
+   "traditional OOP". Object-oriented systems like Smalltalk, CLOS, and Beta are
+   far removed from the mainstream.
+
 [wadler]: homepages.inf.ed.ac.uk/wadler/papers/class/class.ps
 [cpp-concepts]: http://www.stroustrup.com/good_concepts.pdf
 [method-comb]: https://www.cs.cmu.edu/Groups/AI/html/cltl/clm/node287.html
