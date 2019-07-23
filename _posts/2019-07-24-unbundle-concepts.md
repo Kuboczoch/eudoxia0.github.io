@@ -10,5 +10,7 @@ Instead of thinking about OOP, we can think about:
 - Physical subtyping
 - Contravariance and covariance
 - [Concepts][cpp-concepts]
+- Method combinations
+- Multiple dispatch
 
 [cpp-concepts]: http://www.stroustrup.com/good_concepts.pdf
