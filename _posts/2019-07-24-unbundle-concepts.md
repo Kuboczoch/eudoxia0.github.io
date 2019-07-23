@@ -9,6 +9,8 @@ the practice, rather than what they really are: a bundle of orthogonal concepts,
 which are bundled for historical and phylogenetic rather than conceptual, from
 which you can freely choose useful concepts and compose them into new languages.
 
+As existence proof, I offer Haskell:
+
 >"Functional Programming" is great today precisely because it does not mean the
 >same as it did in 1990 when it thoroughly sucked. Since then it adopted the one
 >good thing about the "Object-Oriented Programming" hoax that really mattered:
