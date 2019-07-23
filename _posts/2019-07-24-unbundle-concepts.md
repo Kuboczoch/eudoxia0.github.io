@@ -16,7 +16,7 @@ tags: [plt]
 >
 >— François-René Rideau
 
-Fare argues above that Haskeel succeeded because it has type classes, which are
+Fare argues above that Haskell succeeded because it has type classes, which are
 integral to the language, and underlie the machinery of monads and effectful
 code in the language.
 
