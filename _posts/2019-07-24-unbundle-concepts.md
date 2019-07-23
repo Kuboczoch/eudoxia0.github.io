@@ -4,10 +4,21 @@ summary: Programming paradigms are bad.
 tags: [plt]
 ---
 
-[Fare argues][fare] that Haskell became the most successful functional
-programming language because it has type classes, which are integral to the
-language, and underlie the machinery of monads and effectful code in the
-language.
+>"Functional Programming" is great today precisely because it does not mean the
+>same as it did in 1990 when it thoroughly sucked. Since then it adopted the one
+>good thing about the "Object-Oriented Programming" hoax that really mattered:
+>ad hoc polymorphism — through Type Classes. ([Tweet](https://twitter.com/Ngnghm/status/936677074517090304))
+>
+>OOP was a horrible package deal of good and bad concepts shoved together at
+>random. Please "unlearn" by unbundling the concepts, not by throwing away the
+>good ones with the bad ones. For instance, Haskell has great compile-time ad
+>hoc polymorphism with Type Classes, thank you. ([Tweet](https://twitter.com/Ngnghm/status/932726785636257792))
+>
+>— François-René Rideau
+
+Fare argues above that Haskeel succeeded because it has type classes, which are
+integral to the language, and underlie the machinery of monads and effectful
+code in the language.
 
 Whence type classes? From object-oriented languages. Wadler, in the 1988
 [paper][wadler] that introduced the term:
@@ -39,7 +50,6 @@ Instead of thinking about FP, we can think about:
   rather than executing actions directly. (the [Command Pattern][command],
   nominally from OOP. Also [CQRS][cqrs]).
 
-[fare]: https://twitter.com/Ngnghm/status/936677074517090304
 [wadler]: homepages.inf.ed.ac.uk/wadler/papers/class/class.ps
 [cpp-concepts]: http://www.stroustrup.com/good_concepts.pdf
 [method-comb]: https://www.cs.cmu.edu/Groups/AI/html/cltl/clm/node287.html
