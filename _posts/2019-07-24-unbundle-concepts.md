@@ -5,7 +5,7 @@ tags: [plt]
 ---
 
 Programming pedagogy teaches that programming languages can be classified into
-"paradigms", which form disjoint universes of design space. Rather, so-called
+_paradigms_, which form disjoint universes of design space. Rather, so-called
 "paradigms" are a bundle of orthogonal concepts, bundled for historical and
 phylogenetic reasons, from which you can freely choose useful concepts and
 compose them into new languages.
