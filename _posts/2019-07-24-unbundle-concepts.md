@@ -57,8 +57,15 @@ Instead of thinking about FP, we can think about:
   rather than executing actions directly. (the [Command Pattern][command],
   nominally from OOP. Also [CQRS][cqrs]).
 
+The reason we don't see more cross-pollination between "paradigms" (e.g.,
+[Logtalk][logtalk], which combines logic and object-oriented programming) is
+twofold:
+
+1.
+
 [wadler]: homepages.inf.ed.ac.uk/wadler/papers/class/class.ps
 [cpp-concepts]: http://www.stroustrup.com/good_concepts.pdf
 [method-comb]: https://www.cs.cmu.edu/Groups/AI/html/cltl/clm/node287.html
 [command]: https://en.wikipedia.org/wiki/Command_pattern
 [cqrs]: https://martinfowler.com/bliki/CQRS.html
+[logtalk]: https://en.wikipedia.org/wiki/Logtalk
