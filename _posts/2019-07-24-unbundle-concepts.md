@@ -7,7 +7,7 @@ tags: [plt]
 Programming pedagogy teaches that programming languages can be classified into
 _paradigms_, which form disjoint universes of design space. Rather, programming
 paradigms are a bundle of orthogonal concepts, bundled for historical and
-phylogenetic reasons, from which designers can freely choose useful concepts and
+phylogenetic reasons, from which designers can freely choose useful ideas and
 compose them into new languages.
 
 As existence proof, I offer Haskell:
