@@ -59,10 +59,9 @@ object-oriented languages.
 >aggregations of features. Rather than study extant languages as a whole, which
 >conflates the essential with the accidental, it is more instructive to
 >decompose them into constituent features, which in turn can be studied
->individually. The student then has a toolkit of features that they can
->re-compose per their needs.
+>individually.
 >
->— Shriram Krishnamurthi
+>— [Shriram Krishnamurthi](https://dl.acm.org/citation.cfm?id=1480846)
 
 Instead of thinking about OOP, we can think about:
 
