@@ -10,7 +10,7 @@ paradigms are a bundle of orthogonal concepts, bundled for historical and
 phylogenetic reasons, from which designers can freely choose useful ideas and
 compose them into new languages.
 
-As proof that this a meaningless classification, I offer Haskell:
+As proof that this a meaningless categorization, I offer Haskell:
 
 >"Functional Programming" is great today precisely because it does not mean the
 >same as it did in 1990 when it thoroughly sucked. Since then it adopted the one
