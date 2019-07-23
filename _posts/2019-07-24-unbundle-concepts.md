@@ -89,4 +89,3 @@ Instead of thinking about FP, we can think about:
 [method-comb]: https://www.cs.cmu.edu/Groups/AI/html/cltl/clm/node287.html
 [command]: https://en.wikipedia.org/wiki/Command_pattern
 [cqrs]: https://martinfowler.com/bliki/CQRS.html
-[logtalk]: https://en.wikipedia.org/wiki/Logtalk
