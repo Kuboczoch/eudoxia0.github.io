@@ -4,10 +4,11 @@ summary: Programming paradigms are bad.
 tags: [plt]
 ---
 
-The common idea of programming paradigms is that they are disjoint universes of
-the practice, rather than a bundle of orthogonal concepts, bundled for
-historical and phylogenetic rather than conceptual reasons, from which you can
-freely choose useful concepts and compose them into new languages.
+Programming pedagogy teaches that programming languages can be classified into
+"paradigms", which form disjoint universes of design space. Rather, so-called
+"paradigms" are a bundle of orthogonal concepts, bundled for historical and
+phylogenetic rather than conceptual reasons, from which you can freely choose
+useful concepts and compose them into new languages.
 
 As existence proof, I offer Haskell:
 
