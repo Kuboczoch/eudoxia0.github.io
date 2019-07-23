@@ -4,6 +4,10 @@ summary: Programming paradigms are bad.
 tags: [plt]
 ---
 
+Fare argues that Haskell became the most successful functional programming
+language because it has type classes, which are integral to the language, and
+underlie the machinery of monads and effectful code in the language.
+
 Instead of thinking about OOP, we can think about:
 
 - Behavioural subtyping
