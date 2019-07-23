@@ -44,6 +44,24 @@ object-oriented languages.
 
 # Conclusion
 
+>Most books rigorously adhere to the sacred division of languages into
+>“functional”, “imperative”, “object-oriented”, and “logic” camps. I conjecture
+>that this desire for taxonomy is an artifact of our science-envy from the early
+>days of our discipline: a misguided attempt to follow the _practice_ of science
+>rather than its _spirit_.
+>
+>We are, however, a science of the artificial. What else to make of a language
+>like Python, Ruby, or Perl? Their designers have no patience for the niceties
+>of these Linnaean hierarchies; they borrow features as they wish, creating
+>melanges that utterly defy characterization.
+>
+>If languages are not defined by taxonomies, how are they constructed? They are
+>aggregations of features. Rather than study extant languages as a whole, which
+>conflates the essential with the accidental, it is more instructive to
+>decompose them into constituent features, which in turn can be studied
+>individually. The student then has a toolkit of features that they can
+>re-compose per their needs.
+
 Instead of thinking about OOP, we can think about:
 
 - Behavioural subtyping.
