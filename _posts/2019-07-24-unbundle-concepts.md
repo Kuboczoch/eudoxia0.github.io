@@ -61,7 +61,8 @@ The reason we don't see more cross-pollination between "paradigms" (e.g.,
 [Logtalk][logtalk], which combines logic and object-oriented programming) is
 twofold:
 
-1.
+1. We are actively taught to classify languages into broad tribes, rather than
+   thinking of languages as having many individual orthogonal concepts.
 
 [wadler]: homepages.inf.ed.ac.uk/wadler/papers/class/class.ps
 [cpp-concepts]: http://www.stroustrup.com/good_concepts.pdf
